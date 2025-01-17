@@ -38,6 +38,8 @@ I am a student at Hanoi University of Natural Resources and Environment. Current
 <a href="https://learning.postman.com/docs/publishing-your-api/documenting-your-api/" target="_blank" rel="noreferrer"><img src="https://voyager.postman.com/logo/postman-logo-icon-orange.svg" width="36" height="36" alt="Post Man" /></a>
 &nbsp;&nbsp;&nbsp;
 <a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/github/FFFFFF" width="36" height="36" alt="GitHub" /></a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/github" width="36" height="36" alt="GitHub" /></a>
 </p>
 
 <hr>
