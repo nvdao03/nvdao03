@@ -6,44 +6,101 @@ I'm Web Developer
 ---------------------------------
 I am a student at Hanoi University of Natural Resources and Environment. Currently I am studying and working on Web Front End development. My long term goal is to become a Full Stack Web developer
 
-* 🌍  I'm based in Viet Nam
-* 👨‍🎓  Studying at Hanoi University of Natural Resources and Environment
-* 🖥️  This is my facebook page [Văn Đạo](https://www.facebook.com/van.ao.547278)
-* ✉️  You can contact me at [nguyenvandao0307@gmail.com](mailto:nguyenvandao0307@gmail.com)
+* 🌍  I'm based in Viet Nam  
+* 👨‍🎓  Studying at Hanoi University of Natural Resources and Environment  
+* 🖥️  This is my facebook page [Văn Đạo](https://www.facebook.com/van.ao.547278)  
+* ✉️  You can contact me at [nguyenvandao0307@gmail.com](mailto:nguyenvandao0307@gmail.com)  
 
-<h2 align="left">Technology Stack <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="50"></h2>
-
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
-&nbsp;&nbsp;&nbsp;
-</p>
-
-<h2 align="left">Dev Tools 🛠️</h2>
+<h2 align="left">Programming Languages 💻</h2>
 
 <p align="left">
-<a href="https://learning.postman.com/docs/publishing-your-api/documenting-your-api/" target="_blank" rel="noreferrer"><img src="https://voyager.postman.com/logo/postman-logo-icon-orange.svg" width="36" height="36" alt="Post Man" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 &nbsp;&nbsp;&nbsp;
-<a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/github/FFFFFF" width="36" height="36" alt="GitHub" /></a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/github" width="36" height="36" alt="GitHub" /></a>
+<a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
 </p>
 
-<hr>
+<h2 align="left">Front-end Libraries & Frameworks ⚡</h2>
+
+<p align="left">
+<a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://redux.js.org/" target="_blank"><img src="https://cdn.simpleicons.org/redux/764ABC" width="36" height="36" alt="Redux" /></a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://react-query.tanstack.com/" target="_blank"><img src="https://avatars.githubusercontent.com/u/72518640?s=48&v=4" width="36" height="36" alt="React Query" /></a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://react-hook-form.com/" target="_blank"><img src="https://avatars.githubusercontent.com/u/53986236?s=48&v=4" width="36" height="36" alt="React Hook Form" /></a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://reactrouter.com/" target="_blank"><img src="https://avatars.githubusercontent.com/u/64235328?s=48&v=4" width="36" height="36" alt="React Router DOM" /></a>
+</p>
+
+<h2 align="left">CSS Libraries & Frameworks 🎨</h2>
+
+<p align="left">
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://sass-lang.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://getbootstrap.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://tailwindcss.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
+</p>
+
+<h2 align="left">Back-end Libraries & Frameworks ⚙️</h2>
+
+<p align="left">
+<a href="https://nodejs.org/" target="_blank"><img src="https://cdn.simpleicons.org/nodedotjs/339933" width="36" height="36" alt="NodeJS" /></a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://expressjs.com/" target="_blank"><img src="https://cdn.simpleicons.org/express/FFFFFF" width="36" height="36" alt="ExpressJS" /></a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://express-validator.github.io/docs/" target="_blank"><img src="https://avatars.githubusercontent.com/u/38450322?s=48&v=4" width="36" height="36" alt="Express Validator" /></a>
+</p>
+
+<h2 align="left">Databases 🗄️</h2>
+
+<p align="left">
+<a href="https://www.mongodb.com/" target="_blank"><img src="https://cdn.simpleicons.org/mongodb/47A248" width="36" height="36" alt="MongoDB" /></a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://www.mysql.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/mysql-logo.png" width="36" height="36" alt="MySQL" /></a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://www.microsoft.com/en-us/sql-server" target="_blank"><img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" width="36" height="36" alt="SQL Server" /></a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://www.postgresql.org/" target="_blank"><img src="https://cdn.simpleicons.org/postgresql/4169E1" width="36" height="36" alt="PostgreSQL" /></a>
+</p>
+
+<h2 align="left">Developer Tools 🛠️</h2>
+
+<p align="left">
+<a href="https://learning.postman.com/docs/publishing-your-api/documenting-your-api/" target="_blank"><img src="https://voyager.postman.com/logo/postman-logo-icon-orange.svg" width="36" height="36" alt="Postman" /></a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/" target="_blank"><img src="https://cdn.simpleicons.org/github/FFFFFF" width="36" height="36" alt="GitHub" /></a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://about.gitlab.com/" target="_blank"><img src="https://cdn.simpleicons.org/gitlab/FCA121" width="36" height="36" alt="GitLab" /></a>
+</p>
+
+<h2 align="left">Others 🌟</h2>
+
+<p align="left">
+<a href="https://www.figma.com/" target="_blank"><img src="https://img.icons8.com/?size=48&id=zfHRZ6i1Wg0U&format=png" width="36" height="36" alt="Figma" /></a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://www.linux.org/" target="_blank"><img src="https://cdn.simpleicons.org/linux/FCC624" width="36" height="36" alt="Linux" /></a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://aws.amazon.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="36" height="36" alt="AWS" /></a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://www.npmjs.com/package/formidable" target="_blank"><img src="https://avatars.githubusercontent.com/u/43678974?s=48&v=4" width="36" height="36" alt="Formidable" /></a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://swagger.io/" target="_blank"><img src="https://cdn.simpleicons.org/swagger/85EA2D" width="36" height="36" alt="Swagger" /></a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://developers.google.com/identity/protocols/oauth2" target="_blank"><img src="https://cdn.simpleicons.org/google/4285F4" width="36" height="36" alt="Google OAuth" /></a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://jwt.io/" target="_blank"><img src="https://www.jwt.io/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fjwt-flower.f20616b0.png&w=1920&q=75" width="36" height="36" alt="JWT" /></a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://jwt.io/" target="_blank"><img src="https://camo.githubusercontent.com/f0ae00359f2497af3e2f710d79eb6084c2aa2ba70ddb427de744c337f245920b/68747470733a2f2f73686172702e706978656c706c756d62696e672e636f6d2f73686172702d6c6f676f2e737667" width="36" height="36" alt="JWT" /></a>
+</p>
+
+---
 
 <p align="center">Thanks for stopping by, and I look forward to connecting with you soon! ⭐</p>
