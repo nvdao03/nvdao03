@@ -36,10 +36,6 @@ I am a student at Hanoi University of Natural Resources and Environment. Current
 <h2 align="left">CSS Libraries & Frameworks 🎨</h2>
 
 <p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-&nbsp;&nbsp;&nbsp;
 <a href="https://sass-lang.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
 &nbsp;&nbsp;&nbsp;
 <a href="https://getbootstrap.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
@@ -55,6 +51,8 @@ I am a student at Hanoi University of Natural Resources and Environment. Current
 <a href="https://expressjs.com/" target="_blank"><img src="https://cdn.simpleicons.org/express/FFFFFF" width="36" height="36" alt="ExpressJS" /></a>
 &nbsp;&nbsp;&nbsp;
 <a href="https://express-validator.github.io/docs/" target="_blank"><img src="https://avatars.githubusercontent.com/u/38450322?s=48&v=4" width="36" height="36" alt="Express Validator" /></a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://mongoosejs.com/" target="_blank"><img src="https://img.icons8.com/?size=48&id=gKfcEStXI1Hm&format=png" width="36" height="36" alt="Mongoose" /></a>
 </p>
 
 <h2 align="left">Databases 🗄️</h2>
