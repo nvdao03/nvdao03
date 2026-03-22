@@ -94,9 +94,8 @@ I am a student at Hanoi University of Natural Resources and Environment. Current
 &nbsp;&nbsp;&nbsp;
 <a href="https://developers.google.com/identity/protocols/oauth2" target="_blank"><img src="https://cdn.simpleicons.org/google/4285F4" width="36" height="36" alt="Google OAuth" /></a>
 &nbsp;&nbsp;&nbsp;
-<a href="https://jwt.io/" target="_blank"><img src="https://www.jwt.io/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fjwt-flower.f20616b0.png&w=1920&q=75" width="36" height="36" alt="JWT" /></a>
+<a href="https://jwt.io/" target="_blank"><img src="https://jwt.io/img/pic_logo.svg" width="36" height="36" alt="JWT"/></a>
 &nbsp;&nbsp;&nbsp;
-<a href="https://jwt.io/" target="_blank"><img src="https://camo.githubusercontent.com/f0ae00359f2497af3e2f710d79eb6084c2aa2ba70ddb427de744c337f245920b/68747470733a2f2f73686172702e706978656c706c756d62696e672e636f6d2f73686172702d6c6f676f2e737667" width="36" height="36" alt="JWT" /></a>
 </p>
 
 ---
